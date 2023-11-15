@@ -22,6 +22,10 @@
         "rows": ["GP28", "GP27", "GP20", "GP6", "GP7"],
         "cols": ["GP21", "GP5", "GP4", "GP3", "GP2", "GP1", "GP0", "GP15", "GP14", "GP13", "GP12", "GP11", "GP10", "GP8", "GP9"]
     },
+    "indicators": {
+        "caps_lock": "GP17",
+        "on_state": 0
+    },
     "layouts": {
         "LAYOUT": {
             "layout": [
